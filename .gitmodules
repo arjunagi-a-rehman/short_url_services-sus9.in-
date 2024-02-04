@@ -1,0 +1,6 @@
+[submodule "url-shortner"]
+	path = url-shortner
+	url = https://github.com/arjunagi-a-rehman/url-shortner.git
+[submodule "short-url-service-frontend"]
+	path = short-url-service-frontend
+	url = https://github.com/arjunagi-a-rehman/short-url-service-frontend.git
